@@ -48,7 +48,7 @@ class Json2Netscape:
         The json file is expected in the following format:
 
             {
-                "link": "description",
+                "link": "name",
                 ...
             }
         """
